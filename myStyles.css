@@ -1,0 +1,142 @@
+/* *
+{
+    margin: 0;
+    padding: 0;
+} */
+body
+{
+    background-color: #767676;
+}
+.welcome
+{
+    height: 140px;
+    width: 400px;
+    border: 5px solid red;
+    background-color: white;
+    margin: 5px 400px;
+    border-radius: 20px;
+    box-shadow: 5px 5px #762474;
+}
+
+.item
+{
+    text-align: center;
+    color: #962436;
+    font-size: 20px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px  #762474;
+    font-weight: bolder;
+}
+.menu
+{
+    height: 600px;
+    width: 1245px;
+    border: 5px solid green;
+}
+.menu-box
+{
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px #762474;
+}
+.item1
+{
+    color: #04000f;
+    font-size: 10px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #78437d;
+    font-size: 20px;
+    text-align: center;
+}
+.item2
+{
+    color: #04000f;
+    font-size: 10px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #78437d;
+    font-size: 20px;
+    text-align: center;
+    margin: -210px 1005px;
+}
+.item3
+{
+    color: #04000f;
+    font-size: 10px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #78437d;
+    font-size: 20px;
+    text-align: center;
+    margin: 350px 0px;
+}
+.item4
+{
+    color: #04000f;
+    font-size: 10px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #78437d;
+    font-size: 20px;
+    text-align: center;
+    margin: -560px 1005px;
+}
+.btn
+{
+    background-color: red;
+    border-radius: 5px;
+
+}
+.contaner
+{
+    height: 600px;
+    width: 700px;
+    background-color: green;
+    border: 5px solid #772574;
+    margin: 0px 250px;
+    text-align: center;
+}
+.FV
+{
+    display: flex;
+    justify-content: space-around;
+}
+.fruits
+{
+    height: 250px;
+    width: 346px;
+    background-color: #ede280;
+}
+
+.other
+{
+    height: 250px;
+    width: 698px;
+    background-color: #ede280;
+    margin: 10px 0px;
+}
+
+.fixed
+{
+    height: 70px;
+    width: 400px;
+    background-color: #a0f33c;
+    border: 5px solid #962436;
+    box-shadow: 5px 5px #762474;
+    border-radius: 10px;
+    position: fixed;
+    top: 480px;
+    left: 400px;
+    /* z-index: 2; */
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #a2212c;
+    font-size: 20px;
+    /* font-style: bold; */
+}
+.left
+{
+    height: 10px;
+    width: 180px;
+}
